@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>9a3972a3-7d21-49bc-8ffa-a098c8ad8632</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>PyLab.py</StartupFile>
+    <StartupFile>ex1.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,7 +22,8 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="PyLab.py" />
+    <Compile Include="ex1.py" />
+    <Compile Include="hello.py" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
 </Project>
