@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>9a3972a3-7d21-49bc-8ffa-a098c8ad8632</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>ex1.py</StartupFile>
+    <StartupFile>ex5.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,6 +23,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="ex1.py" />
+    <Compile Include="ex3.py" />
+    <Compile Include="ex4.py" />
+    <Compile Include="ex5.py" />
     <Compile Include="hello.py" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
