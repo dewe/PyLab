@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>9a3972a3-7d21-49bc-8ffa-a098c8ad8632</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>ex5.py</StartupFile>
+    <StartupFile>ex12.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,10 +22,12 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="ex1.py" />
-    <Compile Include="ex3.py" />
-    <Compile Include="ex4.py" />
-    <Compile Include="ex5.py" />
+    <Compile Include="ex01.py" />
+    <Compile Include="ex06.py" />
+    <Compile Include="ex12.py" />
+    <Compile Include="ex03.py" />
+    <Compile Include="ex04.py" />
+    <Compile Include="ex05.py" />
     <Compile Include="hello.py" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
